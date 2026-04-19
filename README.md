@@ -1,2 +1,2 @@
 # Research-assignment
-what anyone will find inside this folder
+BrightLearn Research Assignment 1
